@@ -1,0 +1,183 @@
+primaryDisease,Subtype,countCellLines,angle
+Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",68,23.929618768328446
+Lung Cancer,Small Cell Lung Cancer (SCLC),53,18.651026392961878
+Skin Cancer,Melanoma,52,18.299120234604107
+Pancreatic Cancer,"Ductal Adenocarcinoma, exocrine",41,14.428152492668621
+Brain Cancer,Glioblastoma,35,12.316715542521994
+Colon/Colorectal Cancer,Colon Adenocarcinoma,31,10.909090909090908
+Breast Cancer,Breast Ductal Carcinoma,29,10.205278592375366
+Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",26,9.149560117302054
+Esophageal Cancer,Squamous Cell Carcinoma,24,8.44574780058651
+Breast Cancer,Carcinoma,22,7.741935483870968
+Liver Cancer,Hepatocellular Carcinoma,22,7.741935483870968
+Myeloma,Multiple Myeloma,21,7.390029325513196
+Ovarian Cancer,"Adenocarcinoma, high grade serous",21,7.390029325513196
+Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Large Cell Carcinoma",17,5.9824046920821115
+Lymphoma,Diffuse Large B-cell Lymphoma (DLBCL),17,5.9824046920821115
+Neuroblastoma,Unknown,17,5.9824046920821115
+Leukemia,"Acute Lymphoblastic Leukemia (ALL), B-cell",15,5.278592375366569
+Gastric Cancer,Adenocarcinoma,14,4.926686217008798
+Leukemia,"Acute Lymphoblastic Leukemia (ALL), T-cell",14,4.926686217008798
+Leukemia,Acute Myelogenous Leukemia (AML),14,4.926686217008798
+Bladder Cancer,Transitional Cell Carcinoma,13,4.574780058651027
+Colon/Colorectal Cancer,Colon Carcinoma,13,4.574780058651027
+Endometrial/Uterine Cancer,Endometrial Adenocarcinoma,13,4.574780058651027
+Leukemia,"Chronic Myelogenous Leukemia (CML), blast crisis",13,4.574780058651027
+Head and Neck Cancer,"Squamous Cell Carcinoma, oral",12,4.222873900293255
+Head and Neck Cancer,Squamous Cell Carcinoma,11,3.870967741935484
+Kidney Cancer,Renal Cell Carcinoma,11,3.870967741935484
+Lymphoma,"B-cell, Non-Hodgkins, Burkitts",11,3.870967741935484
+Bladder Cancer,Carcinoma,10,3.5190615835777126
+Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Bronchoalveolar Carcinoma",10,3.5190615835777126
+Brain Cancer,Glioma,9,3.167155425219941
+Lung Cancer,Mesothelioma,9,3.167155425219941
+Brain Cancer,Astrocytoma,8,2.8152492668621703
+Colon/Colorectal Cancer,Colorectal Adenocarcinoma,8,2.8152492668621703
+Lymphoma,"B-cell, Hodgkins",8,2.8152492668621703
+Bone Cancer,Ewings Sarcoma,7,2.463343108504399
+Kidney Cancer,"Renal Carcinoma, clear cell",7,2.463343108504399
+Ovarian Cancer,"Adenocarcinoma, endometrioid",7,2.463343108504399
+Bone Cancer,Osteosarcoma,6,2.1114369501466275
+Endometrial/Uterine Cancer,Uterine/Endometrial Adenocarcinoma,6,2.1114369501466275
+Fibroblast,Melanoma,6,2.1114369501466275
+Gastric Cancer,Carcinoma,6,2.1114369501466275
+Leukemia,"Acute Myelogenous Leukemia (AML), M5 (Monocytic)",6,2.1114369501466275
+Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), unspecified",6,2.1114369501466275
+Lymphoma,"B-cell, Non-Hodgkins",6,2.1114369501466275
+Ovarian Cancer,"Adenocarcinoma, clear cell",6,2.1114369501466275
+Prostate Cancer,Adenocarcinoma,6,2.1114369501466275
+Sarcoma,Rhabdomyosarcoma,6,2.1114369501466275
+Colon/Colorectal Cancer,Colorectal Carcinoma,5,1.7595307917888563
+Fibroblast,Breast carcinoma,5,1.7595307917888563
+Gastric Cancer,"Adenocarcinoma, signet ring cell",5,1.7595307917888563
+Gastric Cancer,"Adenocarcinoma, tubular",5,1.7595307917888563
+Pancreatic Cancer,Carcinoma,5,1.7595307917888563
+Gastric Cancer,Stomach Adenocarcinoma,4,1.4076246334310851
+Head and Neck Cancer,"Squamous Cell Carcinoma, laryngeal",4,1.4076246334310851
+Leukemia,"Acute Myelogenous Leukemia (AML), M6 (Erythroleukemia)",4,1.4076246334310851
+Leukemia,"Chronic Lymphoblastic Leukemia (CLL), B-cell",4,1.4076246334310851
+Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Adenosquamous Carcinoma",4,1.4076246334310851
+Lymphoma,"B-cell, Non-Hodgkins, Mantle Cell",4,1.4076246334310851
+Myeloma,"Multiple Myeloma, plasmacytoma",4,1.4076246334310851
+Thyroid Cancer,"Carcinoma, follicular",4,1.4076246334310851
+Bile Duct Cancer,"Cholangiocarcinoma, intrahepatic",3,1.0557184750733137
+Bone Cancer,Chondrosarcoma,3,1.0557184750733137
+Brain Cancer,Medulloblastoma,3,1.0557184750733137
+Fibroblast,Osteosarcoma,3,1.0557184750733137
+Fibroblast,Rhabdomyosarcoma,3,1.0557184750733137
+Leukemia,"Acute Myelogenous Leukemia (AML), M2 (Myeloblastic)",3,1.0557184750733137
+Leukemia,"Acute Myelogenous Leukemia (AML), M3 (Promyelocytic)",3,1.0557184750733137
+Leukemia,Plasma Cell,3,1.0557184750733137
+Rhabdoid,Malignant Rhabdoid Tumor,3,1.0557184750733137
+Skin Cancer,"Melanoma, amelanotic",3,1.0557184750733137
+Bile Duct Cancer,"Cholangiocarcinoma, extrahepatic",2,0.7038123167155426
+Bile Duct Cancer,"Cholangiocarcinoma, extrahepatic, ampullary",2,0.7038123167155426
+Brain Cancer,Oligodendroglioma,2,0.7038123167155426
+Breast Cancer,Adenocarcinoma,2,0.7038123167155426
+Endometrial/Uterine Cancer,Endometrial Carcinoma,2,0.7038123167155426
+Endometrial/Uterine Cancer,Unknown,2,0.7038123167155426
+Fibroblast,"B-Cell, Hodgkins Lymphoma",2,0.7038123167155426
+Fibroblast,Lymphoma,2,0.7038123167155426
+Fibroblast,Mesothelioma,2,0.7038123167155426
+Fibroblast,"Non-Small Cell Lung Cancer (NSCLC), Adenocarcinoma",2,0.7038123167155426
+Gastric Cancer,"Adenocarcinoma, mucinous",2,0.7038123167155426
+Gastric Cancer,Duodenal Adenocarcinoma,2,0.7038123167155426
+Gastric Cancer,Small Cell Carcinoma,2,0.7038123167155426
+Head and Neck Cancer,"Squamous Cell Carcinoma, tongue",2,0.7038123167155426
+Kidney Cancer,"Renal Adenocarcinoma, clear cell",2,0.7038123167155426
+Kidney Cancer,Renal Cell Adenocarcinoma,2,0.7038123167155426
+Kidney Cancer,Unknown,2,0.7038123167155426
+Leukemia,"Acute Myelogenous Leukemia (AML), M4 (Myelomonocytic)",2,0.7038123167155426
+Leukemia,"Acute Myelogenous Leukemia (AML), M5 (Eosinophilic)",2,0.7038123167155426
+Leukemia,"Acute Myelogenous Leukemia (AML), M7 (Megakaryoblastic)",2,0.7038123167155426
+Leukemia,Chronic Myelogenous Leukemia (CML),2,0.7038123167155426
+Lymphoma,"T-cell, Non-Hodgkins, Cutaneous",2,0.7038123167155426
+Ovarian Cancer,"Adenocarcinoma, mucinous",2,0.7038123167155426
+Ovarian Cancer,"Adenocarcinoma, serous",2,0.7038123167155426
+Ovarian Cancer,"Carcinoma, clear cell",2,0.7038123167155426
+Ovarian Cancer,"Cystadenocarcinoma, mucinous",2,0.7038123167155426
+Pancreatic Cancer,Ductal Adenosquamous Carcinoma,2,0.7038123167155426
+Prostate Cancer,Carcinoma,2,0.7038123167155426
+Sarcoma,Leiomyosarcoma,2,0.7038123167155426
+Thyroid Cancer,Carcinoma,2,0.7038123167155426
+Thyroid Cancer,"Carcinoma, anaplastic",2,0.7038123167155426
+Thyroid Cancer,"Carcinoma, papillary",2,0.7038123167155426
+Bladder Cancer,Squamous Cell Carcinoma,1,0.3519061583577713
+Bladder Cancer,"Transitional Cell Carcinoma, papillary",1,0.3519061583577713
+Bladder Cancer,Transitional Cell Papilloma,1,0.3519061583577713
+Bladder Cancer,Unknown,1,0.3519061583577713
+Bone Cancer,"Chordoma, sacral",1,0.3519061583577713
+Bone Cancer,"Osteosarcoma, Multipotential Sarcoma",1,0.3519061583577713
+Brain Cancer,Neuroglioma,1,0.3519061583577713
+Brain Cancer,"Oligodendroglioma, anaplastic",1,0.3519061583577713
+Brain Cancer,Primitive Neuroectodermal Tumor (PNET) Medulloblastoma,1,0.3519061583577713
+Breast Cancer,"Breast Ductal Carcinoma, medullary",1,0.3519061583577713
+Colon/Colorectal Cancer,Caecum Adenocarcinoma,1,0.3519061583577713
+Colon/Colorectal Cancer,"Colorectal Carcinoma, mucinous",1,0.3519061583577713
+Endometrial/Uterine Cancer,Adenosquamous Carcinoma,1,0.3519061583577713
+Endometrial/Uterine Cancer,Clear Cell Carcinoma,1,0.3519061583577713
+Endometrial/Uterine Cancer,Endometrial Stromal Sarcoma,1,0.3519061583577713
+Endometrial/Uterine Cancer,Malignant Mixed Mullerian Tumor (MMMT),1,0.3519061583577713
+Endometrial/Uterine Cancer,Mullerian Carcinoma,1,0.3519061583577713
+Esophageal Cancer,Adenocarcinoma,1,0.3519061583577713
+Esophageal Cancer,"Squamous Cell Carcinoma, laryngeal",1,0.3519061583577713
+Fibroblast,NA,1,0.3519061583577713
+Fibroblast,Breast,1,0.3519061583577713
+Fibroblast,Chondrosarcoma,1,0.3519061583577713
+Fibroblast,Colon Adenocarcinoma,1,0.3519061583577713
+Fibroblast,Colon Carcinoma,1,0.3519061583577713
+Fibroblast,Colorectal,1,0.3519061583577713
+Fibroblast,Ewings Sarcoma,1,0.3519061583577713
+Fibroblast,Giant Cell Sarcoma,1,0.3519061583577713
+Fibroblast,Giant cell tumor,1,0.3519061583577713
+Fibroblast,Giant Cell Tumor,1,0.3519061583577713
+Fibroblast,Head and neck cancer,1,0.3519061583577713
+Fibroblast,Lung,1,0.3519061583577713
+Fibroblast,Malignant melanoma,1,0.3519061583577713
+Fibroblast,"Non-Small Cell Lung Cancer (NSCLC), Squamous Cell Carcinoma",1,0.3519061583577713
+Fibroblast,Urinary tract,1,0.3519061583577713
+Gallbladder Cancer,Adenocarcinoma,1,0.3519061583577713
+Gastric Cancer,Unknown,1,0.3519061583577713
+Head and Neck Cancer,"Carcinoma, mucoepidermoid",1,0.3519061583577713
+Head and Neck Cancer,"Carcinoma, pharynx",1,0.3519061583577713
+Head and Neck Cancer,"Squamous Cell Carcinoma, basaloid",1,0.3519061583577713
+Head and Neck Cancer,"Squamous Cell Carcinoma, hypopharyngeal",1,0.3519061583577713
+Head and Neck Cancer,"Squamous Cell Carcinoma, salivary gland",1,0.3519061583577713
+Immortalized,NA,1,0.3519061583577713
+Kidney Cancer,"Renal Carcinoma, transitional cell",1,0.3519061583577713
+Leukemia,Unknown,1,0.3519061583577713
+Liver Cancer,Hepatoblastoma,1,0.3519061583577713
+Liver Cancer,Hepatocellular Adenocarcinoma,1,0.3519061583577713
+Liver Cancer,"Hepatocellular Carcinoma, HBs-antigen carrier",1,0.3519061583577713
+Liver Cancer,Unknown,1,0.3519061583577713
+Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Anaplastic Carcinoma",1,0.3519061583577713
+Lung Cancer,"Non-Small Cell Lung Cancer (NSCLC), Mucoepidermoid Carcinoma",1,0.3519061583577713
+Lymphoma,"B-cell, unspecified",1,0.3519061583577713
+Lymphoma,Diffuse Mixed Small and Large B-cell Lymphoma,1,0.3519061583577713
+Lymphoma,T-cell,1,0.3519061583577713
+Lymphoma,"T-cell, Non-Hodgkins, Anaplastic Large Cell (ALCL)",1,0.3519061583577713
+Myeloma,Plasma Cell,1,0.3519061583577713
+Non-Cancerous,Control,1,0.3519061583577713
+Ovarian Cancer,Adenocarcinoma,1,0.3519061583577713
+Ovarian Cancer,"Adenocarcinoma, low grade serous",1,0.3519061583577713
+Ovarian Cancer,Carcinoma,1,0.3519061583577713
+Ovarian Cancer,"Carcinoma, brenner",1,0.3519061583577713
+Ovarian Cancer,"Carcinoma, epithelial-mucinous",1,0.3519061583577713
+Ovarian Cancer,"Carcinoma, mixed",1,0.3519061583577713
+Ovarian Cancer,"Carcinoma, serous",1,0.3519061583577713
+Ovarian Cancer,Cystadenocarcinoma,1,0.3519061583577713
+Ovarian Cancer,"Cystadenocarcinoma, high grade serous",1,0.3519061583577713
+Ovarian Cancer,"Cystadenocarcinoma, serous papillary",1,0.3519061583577713
+Pancreatic Cancer,Ductal Adenocarcinoma,1,0.3519061583577713
+Pancreatic Cancer,"Ductal Adenocarcinoma, tubular",1,0.3519061583577713
+Pancreatic Cancer,"Ductal Adenosquamous Carcinoma, exocrine",1,0.3519061583577713
+Pancreatic Cancer,Somatostatinoma,1,0.3519061583577713
+Pancreatic Cancer,Unknown,1,0.3519061583577713
+Prostate Cancer,Small Cell Carcinoma,1,0.3519061583577713
+Sarcoma,Fibrosarcoma,1,0.3519061583577713
+Sarcoma,Malignant Fibrous Histiocytoma,1,0.3519061583577713
+Sarcoma,"Rhabdomyosarcoma, alveolar",1,0.3519061583577713
+Sarcoma,Unknown,1,0.3519061583577713
+Sarcoma,Uterine Sarcoma,1,0.3519061583577713
+Thyroid Cancer,Squamous Cell Carcinoma,1,0.3519061583577713
+Unknown,NA,1,0.3519061583577713
